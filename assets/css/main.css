@@ -97,6 +97,14 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
+	.container {
+		display: flex;
+	  }
+	  
+	  img {
+		width: 200px;
+		margin-right: 20px;
+	  }
 
 	body {
 		background-color: #1e252d;
@@ -2587,6 +2595,12 @@ input, select, textarea {
 		}
 
 /* Image */
+	.small-image{
+		max-width: 50%;
+		height: auto;
+		margin: 0 auto;
+  		text-align: center;
+	}
 
 	.image {
 		border: 0;
