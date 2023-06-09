@@ -1,1 +1,1 @@
-A personal websidte based on html5up.net's base. Added further functionality to fit the needs of my personal portfolio.
+A personal website based on html5up.net's base. Added further functionality to fit the needs of my personal portfolio.
