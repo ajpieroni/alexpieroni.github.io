@@ -1,0 +1,86 @@
+<!-- Posts -->
+        <section class="posts">
+          <!-- Route -->
+          <article>
+            <header>
+              <h2>
+                <a href="https://github.com/ajpieroni/route"
+                  >Route<br />
+                  <h3>Java</h3>
+                </a>
+              </h2>
+            </header>
+            <a href="https://github.com/ajpieroni/route" class="image main"
+              ><img src="images/Route.png" alt=""
+            /></a>
+            <p>
+              A project using an adapted Dijkstra's algorithm that finds the
+              shortest path between any two cities in the US.
+            </p>
+
+            <ul class="actions special">
+              <li>
+                <a
+                  href="https://github.com/ajpieroni/route"
+                  class="button large"
+                  >View Project</a
+                >
+              </li>
+            </ul>
+          </article>
+          <!-- Sta 199 -->
+          <article>
+            <header>
+              <h2>
+                <a href="https://github.com/ajpieroni/nychealth"
+                  >Investigating NYC Health Inspections <br />
+                  <h3>R</h3>
+                </a>
+              </h2>
+            </header>
+            <a href="https://github.com/ajpieroni/nychealth" class="image fit"
+              ><img src="images/NYC.png" alt=""
+            /></a>
+            <p>
+              What boroughs have the highest and lowest health ratings, and how
+              does that correlate to median income? This data is from the New
+              York Open Data Portal, sourced from TidyTuesday.
+            </p>
+            <ul class="actions special">
+              <li>
+                <a href="https://github.com/ajpieroni/nychealth" class="button"
+                  >View Project</a
+                >
+              </li>
+            </ul>
+          </article>
+          <!-- Bread -->
+          <article>
+            <header>
+              <h2>
+                <a href="https://github.com/ajpieroni/BreadAlgorithm"
+                  >Bread Calculator<br />
+                  <h3>Java</h3></a
+                >
+              </h2>
+            </header>
+            <a
+              href="https://github.com/ajpieroni/BreadAlgorithm"
+              class="image fit"
+              ><img src="images/bread.jpg" alt=""
+            /></a>
+            <p>
+              A Java program using Java Swing GUI that calculates a bread
+              cooking timeline for my famous focaccia bread.
+            </p>
+            <ul class="actions special">
+              <li>
+                <a
+                  href="https://github.com/ajpieroni/BreadAlgorithm"
+                  class="button"
+                  >View Project</a
+                >
+              </li>
+            </ul>
+          </article>
+        </section>
